@@ -1,10 +1,10 @@
 ---
-date: '2015-12-21'
-title: 'Creative Technologist Co-op'
-company: 'MullenLowe'
-location: 'Boston, MA'
-range: 'July - Dec 2015'
-url: 'https://www.upstatement.com/'
+date: '2014-6-1'
+title: 'Software Developer Intern'
+company: 'State Grid'
+location: 'Nanjing, China'
+range: 'June - Aug 2014'
+url: 'http://www.sgcc.com.cn/'
 ---
 
 - Developed and maintained code for in-house and client websites primarily using HTML, CSS, Sass, JavaScript, and jQuery

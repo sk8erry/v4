@@ -1,8 +1,8 @@
 ---
 title: 'Hi, my name is'
-name: 'Brittany Chiang'
-subtitle: 'I build things for the web.'
+name: 'Ricky Yang'
+subtitle: 'IoT / Web developer.'
 contactText: 'Get In Touch'
 ---
 
-I'm a software engineer based in Boston, MA specializing in building (and occasionally designing) exceptional, high-quality websites and applications. Currently working at [Upstatement](https://www.upstatement.com/) as an Engineer.
+I'm a master's student based in Irvine, CA specialized in web development and IoT programming.

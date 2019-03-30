@@ -1,15 +1,14 @@
 ---
 date: '2'
-title: 'Pin Simple'
+title: 'Light Swarm'
 cover: './pin-simple.png'
-github: 'https://github.com/bchiang7/pin-simple'
-external: 'https://pin-simple.herokuapp.com/'
+github: 'https://github.com/sk8erry/light-swarm'
 tech:
-  - Vue
-  - Vue Router
-  - Express
-  - Pinterest API
-show: 'false'
+  - Python
+  - C++
+  - Firebase
+  - NodeRed
+show: 'true'
 ---
 
 Pinterest, but just the pictures.

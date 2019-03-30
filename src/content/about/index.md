@@ -3,17 +3,14 @@ title: 'About Me'
 avatar: './me.jpg'
 skills:
   - JavaScript
-  - TypeScript
   - HTML & CSS
   - React
-  - Vue
-  - Ember
   - Node.js
-  - Express
+  - C/C++
+  - Python
 ---
 
-Hello! I'm Brittany, a software engineer based in Boston, MA who enjoys building things that live on the internet. I develop exceptional websites and web apps that provide intuitive, pixel-perfect user interfaces with efficient and modern backends.
-
-Shortly after graduating from [Northeastern University](https://www.ccis.northeastern.edu/), I joined the engineering team at [Upstatement](https://www.upstatement.com/) where I get to work on a variety of interesting projects and tools on a daily basis.
+Hello! I'm Ricky, a master's student attending University of California, Irvine, who has skills and relevant projects in IoT, cyber-physical systems and web development. Most of my free time is dedicated to learning new
+skills, and transforming these skills to projects.
 
 Here's a few things I'm experienced with:

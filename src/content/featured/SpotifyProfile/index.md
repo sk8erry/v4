@@ -1,15 +1,12 @@
 ---
 date: '3'
-title: 'Spotify Profile'
+title: 'Markdown Preview'
 cover: './demo.png'
-github: 'https://github.com/bchiang7/spotify-profile'
-external: 'https://spotify-profile.herokuapp.com/'
+github: 'https://github.com/sk8erry/markdown-preview'
+external: 'https://rickyyang.moe/markdown-preview/'
 tech:
   - React
-  - Express
-  - Reach Router
-  - Styled Components
 show: 'true'
 ---
 
-A web app for visualizing personalized Spotify data. View your top artists, top tracks, recently played tracks, and detailed audio information about each track. Create and save new playlists of recommended tracks based on your existing playlists and more.
+A clean, responsive and real-time markdown previewer built with React.
