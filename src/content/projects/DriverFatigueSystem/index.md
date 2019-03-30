@@ -2,8 +2,8 @@
 date: '2016-10-01'
 title: 'Driver Fatigue System'
 image: ''
-github: ''
-external: 'https://github.com/sk8erry/driver-fatigue-detection'
+github: 'https://github.com/sk8erry/driver-fatigue-detection'
+external: ''
 tech:
   - Python
   - OpenCV

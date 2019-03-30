@@ -7,6 +7,6 @@ range: 'June - Aug 2014'
 url: 'http://www.sgcc.com.cn/'
 ---
 
-- Developed and maintained code for in-house and client websites primarily using HTML, CSS, Sass, JavaScript, and jQuery
-- Manually tested sites in various browsers and mobile devices to ensure cross-browser compatibility and responsiveness
-- Clients included JetBlue, Lovesac, U.S. Cellular, U.S. Department of Defense, and more
+- Implemented part of a network delay algorithm (C/C++)
+- Attended weekly meetings to discuss the implementation and testing of said algorithm
+- Worked closely with other team members to make sure the production progress is up to date
