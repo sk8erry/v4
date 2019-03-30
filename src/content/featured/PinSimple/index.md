@@ -11,6 +11,4 @@ tech:
 show: 'true'
 ---
 
-Pinterest, but just the pictures.
-
-My main motivation for building this was so I could cycle through pins on my boards with the left and right arrow keys and hide the other distracting features that I don't usually use on Pinterest.
+Light Swarm is a dynamic light sensor network implemented using ESP8266 WiFi module (C++) and Raspberry Pi (Python). Data is forwarded and stored at Google Firebase.
