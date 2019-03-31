@@ -9,4 +9,4 @@ tech:
 show: 'true'
 ---
 
-A web app built with React that allows users to discover and follow seasonal anime. Anime data is retrieved from web api using Graphql.
+A web app built with React that allows users to discover and follow seasonal anime. Anime data is retrieved from AniList database using Graphql.

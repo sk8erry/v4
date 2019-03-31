@@ -10,4 +10,4 @@ tech:
 show: 'true'
 ---
 
-A clean weather search web app built with React
+A clean weather search web app built with React.
